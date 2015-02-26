@@ -41,7 +41,6 @@ var winDave = Titanium.UI.createWindow({
     backgroundColor:'#371515'
 });
 var tabDave = Titanium.UI.createTab({  
-//    icon:'KS_nav_views.png',
     title:'Dave',
     window:winDave
 });
@@ -70,7 +69,6 @@ var winHAL = Titanium.UI.createWindow({
 });
 
 var tabHAL = Titanium.UI.createTab({  
-//    icon:'KS_nav_ui.png',
     title:'HAL',
     window:winHAL 
 });
